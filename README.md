@@ -44,4 +44,4 @@ Step 4 : python vaccine.py -dose [dose] -d [date] -p [pincode] -o [output]
 ```
 pip install pandas
 ```
-    [pandas Link](https://pypi.org/project/pandas/)
+[pandas Link](https://pypi.org/project/pandas/)
