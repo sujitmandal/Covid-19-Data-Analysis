@@ -21,7 +21,7 @@ covid-19(coronavirus) data analysis
 ```
 Step 1 : git clone https://github.com/sujitmandal/Covid-19-Data-Analysis.git
 
-Step 2 : cd Covid-19-Data-Analysis/vaccine-info-india
+Step 2 : cd Covid-19-Data-Analysis
 
 Step 3 : pip install -r requirements.txt or pip3 install -r requirements.txt
 
@@ -45,3 +45,8 @@ Step 4 : python vaccine.py -dose [dose] -d [date] -p [pincode] -o [output]
 pip install pandas
 ```
 [pandas Link](https://pypi.org/project/pandas/)
+
+```
+pip install requests
+```
+[pandas Link](https://pypi.org/project/requests/)
