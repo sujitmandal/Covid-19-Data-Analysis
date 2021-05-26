@@ -2,6 +2,20 @@
 covid-19(coronavirus) data analysis 
 
 
+## Argument 
+```
+-dose = Number Of Dose 
+    Example : one or two or both
+
+-d = Date 
+    Example : 26-05-2021 [dd/mm/yy]
+
+-p = Pincode 
+    Example : 735101
+
+-o = Output 
+    Example : csv or html 
+```
 
 ## How To Run Vaccine Information In India
 ```
@@ -24,19 +38,10 @@ Step 4 : python vaccine.py -dose [dose] -d [date] -p [pincode] -o [output]
     Example 3 : python vaccine.py -dose both -d 26-05-2021 -p 735101 -o csv
 
     Example 6 : python vaccine.py -dose both -d 26-05-2021 -p 735101 -o html
-````
-
-## Argument 
 ```
--dose = Number Of Dose 
-    Example : one or two or both
 
--d = Date 
-    Example : 26-05-2021 [dd/mm/yy]
-
--p = Pincode 
-    Example : 735101
-
--o = Output 
-    Example : csv or html 
+## Required Package's or Librarie's:
 ```
+pip install pandas
+```
+    [pandas Link](https://pypi.org/project/pandas/)
