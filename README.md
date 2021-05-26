@@ -29,13 +29,13 @@ Step 4 : python vaccine.py -dose [dose] -d [date] -p [pincode] -o [output]
 
     Example 1 : python vaccine.py -dose one -d 26-05-2021 -p 735101 -o csv
 
-    Example 4 : python vaccine.py -dose one -d 26-05-2021 -p 735101 -o html
+    Example 2 : python vaccine.py -dose one -d 26-05-2021 -p 735101 -o html
 
-    Example 2 : python vaccine.py -dose two -d 26-05-2021 -p 735101 -o csv
+    Example 3 : python vaccine.py -dose two -d 26-05-2021 -p 735101 -o csv
 
-    Example 5 : python vaccine.py -dose two -d 26-05-2021 -p 735101 -o html
+    Example 4 : python vaccine.py -dose two -d 26-05-2021 -p 735101 -o html
 
-    Example 3 : python vaccine.py -dose both -d 26-05-2021 -p 735101 -o csv
+    Example 5 : python vaccine.py -dose both -d 26-05-2021 -p 735101 -o csv
 
     Example 6 : python vaccine.py -dose both -d 26-05-2021 -p 735101 -o html
 ```
