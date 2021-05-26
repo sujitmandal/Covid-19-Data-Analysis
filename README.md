@@ -49,4 +49,4 @@ pip install pandas
 ```
 pip install requests
 ```
-[pandas Link](https://pypi.org/project/requests/)
+[requests Link](https://pypi.org/project/requests/)
