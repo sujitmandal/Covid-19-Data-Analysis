@@ -19,9 +19,9 @@ covid-19(coronavirus) data analysis
 
 ## How To Run Vaccine Information In India
 ```
-Step 1 : git clone https://github.com/sujitmandal/Covid-19-Data-Analysis.git
+Step 1 : git clone https://github.com/sujitmandal/Covid-19-Vaccine-Available-India.git
 
-Step 2 : cd Covid-19-Data-Analysis
+Step 2 : cd Covid-19-Vaccine-Available-India
 
 Step 3 : pip install -r requirements.txt or pip3 install -r requirements.txt
 
