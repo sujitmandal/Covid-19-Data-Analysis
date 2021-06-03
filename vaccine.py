@@ -2,7 +2,7 @@
 import os
 import argparse
 import requests 
-import pandas as pd #pin install pandas
+import pandas as pd #pip install pandas
 from httpRespons import data_info
 from httpRespons import userAgent
 from httpRespons import httpResponseStatusCodes
